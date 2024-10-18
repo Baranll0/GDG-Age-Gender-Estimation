@@ -1,0 +1,6 @@
+Klasör içerisindeki tüm resimler için ten rengi tespitini uygulamak ve csv formatında çıktı almak için:
+1. Yükleme yapın: pip install skin-tone-classifier --upgrade
+
+2. Komutu çalıştırın (giriş ve çıkış dosya yolunu değiştirin. "-i" ve "-o" parametreleri): 
+
+stone -i "C:\dev\ml\GDG-AI-Team\scripts\a.jpg" -r -d -o "C:\dev\ml\GDG-AI-Team\scripts\output" -p #f1d5d2 #f9e8d8 #f5e3d7 #e8d1c3 #d7c1aa #f3c8bf #f4d8c0 #f4d1bb #e2c7b6 #c6b099 #e6b7af #eecaa6 #e8c0a7 #d5b6a2 #b89d82 #dfa399 #e3bc95 #d5ad94 #bb9c87 #957c66 #d3948b #d4a97f #b9937e #a2826d #7c6253 #9e6f69 #9f7e5f #8b6e60 #977663 #5b453a -l  "Light 1" "Light 2" "Light 3" "Light 4" "Light 5" "Light Medium 1" "Light Medium 2" "Light Medium 3" "Light Medium 4" "Light Medium 5" "Medium 1" "Medium 2" "Medium 3" "Medium 4" "Medium 5" "Medium Tan 1" "Medium Tan 2" "Medium Tan 3" "Medium Tan 4" "Medium Tan 5" "Tan 1" "Tan 2" "Tan 3" "Tan 4" "Tan 5" "Deep 1" "Deep 2" "Deep 3" "Deep 4" "Deep 5"
