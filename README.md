@@ -1,6 +1,4 @@
-# GDG Project 1 - AI Team
-
-Bu proje, yapay zeka ve makine öğrenimi uygulamaları geliştirmek amacıyla oluşturulmuştur. Bu dosya, proje klasör yapısını ve her bir klasörün amacını açıklamak için hazırlanmıştır.
+# Computer Vision Age & Gender Estimation
 
 ## Klasör Yapısı
 
