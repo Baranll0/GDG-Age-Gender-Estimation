@@ -1,5 +1,5 @@
 # Computer Vision Age & Gender Estimation
-
+### NOT: Yapılan önemli değişiklikler yakın zamanda güncellenecektir.
 ## Klasör Yapısı
 
 ### 1. `data/`
